@@ -1,0 +1,7 @@
+[0m2021.04.01 17:56:28 INFO  Started: Metals version 0.10.0 in workspace 'C:\React\my-app2' for client vscode 1.55.0.[0m
+[0m2021.04.01 17:56:29 INFO  time: initialize in 0.5s[0m
+[0m2021.04.01 17:56:30 WARN  Build server is not auto-connectable.[0m
+[0m2021.04.01 17:56:30 WARN  no build tool detected in workspace 'C:\React\my-app2'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+אפר 01, 2021 7:53:07 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+[0m2021.04.01 20:26:48 INFO  shutting down Metals[0m
