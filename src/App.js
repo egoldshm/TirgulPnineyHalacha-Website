@@ -7,7 +7,9 @@ import {
   Switch,
   Route,
 } from "react-router-dom";
-import {AboutPage, HomePage} from "./pages"
+import HomePage from "./pages/HomePage"
+import AboutPage from "./pages/AboutPage"
+
 export default function App() { 
   return (
     <Router>
