@@ -45,7 +45,9 @@ export default function CustomizedRatings() {
   return (
     <div>
       <Box component="fieldset" mb={3} borderColor="transparent">
-        <Typography component="legend">כמה קיבלת?</Typography>
+        <Typography dir="rtl" component="legend">
+          כמה קיבלת?
+        </Typography>
         <Rating
           name="customized-icons"
           defaultValue={4}
